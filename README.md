@@ -4,14 +4,14 @@ A React Native Map App with User Location and Multiple Markers
 This is a simple React Native app that displays a map centered at the user's current location and allows the user to add multiple markers on the map by long-pressing. 
 The app is built using React Native with Expo and uses the react-native-maps and expo-location libraries to achieve the functionality.
 
-##Features
+Features
 
     📍 Display user's current location: The app retrieves and centers the map at the user's current location when the app loads.
     📌 Add multiple markers: The user can add markers to the map by long-pressing on the map.
     🗺️ Interactive map: The map is interactive, allowing users to zoom and pan.
     🚫 "Hello, Map!" text: A welcome message is displayed when the app is opened and disappears after 3 seconds.
 
-##Prerequisites
+Prerequisites
 
 To run this project locally, you need to have the following installed:
 
@@ -19,7 +19,7 @@ To run this project locally, you need to have the following installed:
     Expo CLI
     Git
 
-##Getting Started
+Getting Started
 
     Clone the repository:
 
@@ -51,22 +51,22 @@ Run the app on a simulator or physical device:
     Expo Location (expo-location): Used to retrieve the user's current location.
     React Native Maps (react-native-maps): Provides the map and marker functionality.
 
-##Usage
+Usage
 
     Upon launching the app, the map will open centered at the user's current location (after permissions are granted).
     Long-press on the map to add a marker at the pressed location.
     The "Hello, Map!" message will appear for 3 seconds and then disappear.
 
-##Troubleshooting
+Troubleshooting
 
     Expo Go not displaying the app: Ensure that both the Expo CLI and the Expo Go app on your device are up to date.
     Location permission denied: Make sure location services are enabled on your device.
 
-##License
+License
 
 This project is licensed under GNU General License. See the LICENSE file for more details.
 
 Feel free to modify the content as needed based on your specific use case or project details.
 
-##Contact
+Contact
 rahukettu@gmx.com
